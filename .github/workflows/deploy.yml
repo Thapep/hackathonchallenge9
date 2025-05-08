@@ -31,3 +31,4 @@ jobs:
           acrName: acaconreg-amddgybvc0d2dyct
           containerAppName: acacontainer7
           resourceGroup: testaca
+          imageToDeploy: acaconreg-amddgybvc0d2dyct.azurecr.io/github-action/container-app
